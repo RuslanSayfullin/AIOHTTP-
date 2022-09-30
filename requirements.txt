@@ -1,0 +1,4 @@
+aiohttp==3.8.3
+cchardet==2.1.7 # более быстрая замена charset-normalizer
+aiodns==3.0.0   # Для ускорения разрешения DNS клиентским API
+asyncio==3.4.3
