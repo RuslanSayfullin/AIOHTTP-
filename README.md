@@ -1,1 +1,1 @@
-Сетевое подключение в GNU/Linux Debian
+Python Tutorials from realpython.com 
